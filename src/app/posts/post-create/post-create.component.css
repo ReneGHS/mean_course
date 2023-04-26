@@ -4,3 +4,7 @@ textarea {
   width: 90%;
   margin: auto;
 }
+
+button {
+  margin: 1rem;
+}
