@@ -1,8 +1,8 @@
 
 mat-form-field,
 textarea {
-  width: 90%;
-  margin: auto;
+  width: 95%;
+  margin: 1rem;
 }
 
 button {
